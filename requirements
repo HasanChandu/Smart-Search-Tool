@@ -1,0 +1,8 @@
+transformers  
+torch 
+scikit-learn  
+gradio
+requests 
+pandas 
+beautifulsoup4  
+groq
